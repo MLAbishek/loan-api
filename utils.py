@@ -1,5 +1,5 @@
 # utils.py
-import sqlite3, os, joblib, requests
+import sqlite3, os, joblib
 import pandas as pd
 from sklearn.linear_model import SGDRegressor
 from preprocessor import preprocess_data
